@@ -133,9 +133,3 @@ const float FIXED = 50.0f;   // ₹/month fixed charge
 
 ---
 
-## Resume bullet point
-
-> "Built standalone IoT energy monitoring system on ESP32 (AP mode, no internet);
-> measures Vrms, Irms, kWh, PF, THD with auto relay cutoff on fault conditions;
-> 24-hour load pattern analysis and Indian tariff-based cost saving recommendations
-> served as a real-time web dashboard. [GitHub ↗]"
